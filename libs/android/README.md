@@ -1,1 +1,1 @@
-# evt-android
+# event-sdk

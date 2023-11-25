@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "evt"
+rootProject.name = "event"
 include ':demo'
-include ':evt'
+include ':sdk'

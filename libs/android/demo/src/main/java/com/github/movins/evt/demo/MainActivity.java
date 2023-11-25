@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.github.movins.evt.event.BaseEvent;
+import com.github.movins.event.core.BaseEvent;
 
 public class MainActivity extends AppCompatActivity {
     private BaseEvent evt;
