@@ -1,6 +1,6 @@
 package com.github.movins.event.core;
 
-import com.github.movins.evt.data.Serializedata;
+import com.github.movins.event.data.Serializedata;
 
 /**
  * 功能：事件数据基类

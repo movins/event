@@ -3,7 +3,7 @@ package com.github.movins.event.core;
 import android.os.Handler;
 import android.os.Looper;
 
-import com.github.movins.evt.utils.MethodUtils;
+import com.github.movins.event.utils.MethodUtils;
 
 import java.lang.ref.WeakReference;
 
