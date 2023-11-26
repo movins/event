@@ -1,0 +1,3 @@
+[submodule "libs/android"]
+	path = libs/android
+	url = https://github.com/movins/event-android
